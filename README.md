@@ -7,12 +7,6 @@
   <tr>
     <td>主機板</td><td>Gigabyte W480M VISION W</td>
   </tr>
-  <tr>
-    <td>WiFi</td><td>BCM94360NG</td>
-  </tr>
-  <tr>
-    <td>藍芽</td><td>BCM94360NG</td>
-  </tr>
   <tr>  
     <td>記憶體</td><td>SAMSUNG DDR4 2666 8GB*2</td>
   </tr>
@@ -21,6 +15,12 @@
   </tr>
   <tr>
     <td>獨立顯卡</td><td>MSI RX 6600XT 8GB</td>
+  </tr>
+  <tr>
+    <td>WiFi</td><td>BCM94360NG</td>
+  </tr>
+  <tr>
+    <td>藍芽</td><td>BCM94360NG</td>
   </tr>
   <tr>  
     <td>固態硬碟</td><td>Crucial M550 128GB</td>
