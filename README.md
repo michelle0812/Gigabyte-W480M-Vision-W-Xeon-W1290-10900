@@ -1,6 +1,5 @@
-# Gigabyte-W480M-Vision-W-Xeon-W1290
-  # Successed: Gigabyte W480M VISION W
-<img width="450" src="https://user-images.githubusercontent.com/79300809/202950638-e8667af1-003b-48ff-9f86-743adab4b9bf.png"><br>
+# Successed: Gigabyte W480M VISION W
+<img width="450" src="https://user-images.githubusercontent.com/79300809/226086493-c1ca5988-e2e2-4789-a0b3-1c9a60f0f5b3.png"><br>
 <table>
   <tr>
     <td>處理器</td><td>Intel® Xeon® W-1290 處理器 Comet Lake</td>
