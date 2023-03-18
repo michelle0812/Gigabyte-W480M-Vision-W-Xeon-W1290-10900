@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td>處理器</td><td>Intel® Xeon® W-1290 處理器 Comet Lake</td>
+    <td>處理器</td><td>Intel® Xeon® W-1290(10900) Comet Lake</td>
   </tr>
   <tr>
     <td>主機板</td><td>Gigabyte W480M VISION W</td>
