@@ -1,5 +1,5 @@
 # Successed: Gigabyte W480M VISION W
-<img width="450" src="https://user-images.githubusercontent.com/79300809/226086493-c1ca5988-e2e2-4789-a0b3-1c9a60f0f5b3.png"><br>
+
 <table>
   <tr>
     <td>處理器</td><td>Intel® Xeon® W-1290 處理器 Comet Lake</td>
@@ -11,10 +11,10 @@
     <td>記憶體</td><td>SAMSUNG DDR4 2666 8GB*2</td>
   </tr>
   <tr>
-    <td>核顯igpu</td><td>Intel UHD P630</td>
+    <td>igpu</td><td>Intel UHD P630</td>
   </tr>
   <tr>
-    <td>獨立顯卡</td><td>MSI RX 6600XT 8GB</td>
+    <td>dgpu</td><td>MSI RX 6600XT 8GB</td>
   </tr>
   <tr>
     <td>音效卡</td><td>Realtek® ALC1200</td>
@@ -23,7 +23,10 @@
     <td>WiFi</td><td>BCM94360NG</td>
   </tr>
   <tr>
-    <td>藍芽</td><td>BCM94360NG</td>
+    <td>網路卡1</td><td>Intel 1219-LM</td>
+  </tr>
+  <tr>
+    <td>網路卡2</td><td>Intel 1225-LM</td>
   </tr>
   <tr>  
     <td>固態硬碟</td><td>Crucial M550 128GB</td>
@@ -32,6 +35,8 @@
     <td>系統</td><td>macOS Ventura 13.2.1 + OpenCore 0.9.0</td>
   </tr>  
 </table>
+
+<img width="450" alt="截圖 2023-03-18 12 57 27" src="https://user-images.githubusercontent.com/79300809/226087301-e1086abc-1cae-4d2a-bf9c-533e42a18141.png">
 
 <img width="450" alt="截圖 2023-03-18 12 58 18" src="https://user-images.githubusercontent.com/79300809/226087047-d47a75bf-3998-4183-a66d-c9f10fccde17.png">
 
