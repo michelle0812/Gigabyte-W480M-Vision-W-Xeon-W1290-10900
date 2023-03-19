@@ -23,6 +23,9 @@
     <td>WiFi</td><td>BCM94360NG</td>
   </tr>
   <tr>
+    <td>藍芽</td><td>BCM94360NG</td>
+  </tr>
+  <tr>
     <td>網路卡1</td><td>Intel 1219-LM</td>
   </tr>
   <tr>
