@@ -35,7 +35,7 @@
     <td>固態硬碟</td><td>Crucial M550 128GB</td>
   </tr>
   <tr>
-    <td>系統</td><td>macOS Ventura 13.2.1 + OpenCore 0.9.0</td>
+    <td>系統</td><td>macOS Ventura 13.3 + OpenCore 0.9.1</td>
   </tr>  
 </table>
 
