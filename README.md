@@ -32,10 +32,16 @@
     <td>網路卡2</td><td>Intel 1225-LM</td>
   </tr>
   <tr>  
-    <td>固態硬碟</td><td>Crucial M550 128GB</td>
+    <td>NVMe</td><td>Crucial P5 1TB</td>
+  </tr>
+  <tr>  
+    <td>固態硬碟</td><td>Intel 256GB</td>
+  </tr>
+  <tr>  
+    <td>固態硬碟2</td><td>Cruial MX500 1TB</td>
   </tr>
   <tr>
-    <td>系統</td><td>macOS Ventura 13.3 + OpenCore 0.9.1</td>
+    <td>系統</td><td>macOS Ventura 13.6 + OpenCore 0.9.6</td>
   </tr>  
 </table>
 
