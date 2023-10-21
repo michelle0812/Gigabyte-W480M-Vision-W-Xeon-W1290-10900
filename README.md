@@ -28,9 +28,6 @@
   <tr>
     <td>網路卡1</td><td>Intel 1219-LM</td>
   </tr>
-  <tr>
-    <td>網路卡2</td><td>Intel 1225-LM</td>
-  </tr>
   <tr>  
     <td>NVMe</td><td>Crucial P5 1TB</td>
   </tr>
@@ -44,6 +41,16 @@
     <td>系統</td><td>macOS Ventura 13.6 + OpenCore 0.9.6</td>
   </tr>  
 </table>
+
+
+<img width="450" alt="截圖 2023-10-21 下午3 46 52" src="https://github.com/michelle0812/Gigabyte-W480M-Vision-W-Xeon-W1290-10900/assets/79300809/0080e0e1-d178-4cff-8f4f-a6168204132b">
+
+
+<img width="450" alt="截圖 2023-10-21 下午3 46 52" src="https://github.com/michelle0812/Gigabyte-W480M-Vision-W-Xeon-W1290-10900/assets/79300809/e806f407-e74b-4db8-b3ec-085a47ecf592">
+
+
+
+
 
 <img width="450" alt="截圖 2023-03-18 12 57 27" src="https://user-images.githubusercontent.com/79300809/226087301-e1086abc-1cae-4d2a-bf9c-533e42a18141.png">
 
