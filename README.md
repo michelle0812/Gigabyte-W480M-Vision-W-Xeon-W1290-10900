@@ -47,7 +47,7 @@
 <br>
 <img width="450" alt="截圖 2023-10-21 下午3 46 52" src="https://github.com/michelle0812/Gigabyte-W480M-Vision-W-Xeon-W1290-10900/assets/79300809/e806f407-e74b-4db8-b3ec-085a47ecf592">
 <br>
-<img width="794" alt="截圖 2023-10-21 下午3 43 47" src="https://github.com/michelle0812/Gigabyte-W480M-Vision-W-Xeon-W1290-10900/assets/79300809/3d8389f7-127e-448b-b3ff-9025fc101ea1"><br>
+<img width="450" alt="截圖 2023-10-21 下午3 43 47" src="https://github.com/michelle0812/Gigabyte-W480M-Vision-W-Xeon-W1290-10900/assets/79300809/3d8389f7-127e-448b-b3ff-9025fc101ea1"><br>
 <img width="450" alt="截圖 2023-10-21 下午3 44 08" src="https://github.com/michelle0812/Gigabyte-W480M-Vision-W-Xeon-W1290-10900/assets/79300809/5ca5f712-7c52-4375-aa1b-85e795824695"><br>
 <img width="450" alt="截圖 2023-10-21 下午3 44 02" src="https://github.com/michelle0812/Gigabyte-W480M-Vision-W-Xeon-W1290-10900/assets/79300809/bf847c65-0dfc-46f5-9a0a-bdd6d2c5f595"><br>
 <img width="450" alt="截圖 2023-10-21 下午3 43 57" src="https://github.com/michelle0812/Gigabyte-W480M-Vision-W-Xeon-W1290-10900/assets/79300809/5a939866-f37a-41d9-8c93-8378cd1f74a4"><br>
