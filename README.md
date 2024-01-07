@@ -8,7 +8,7 @@
     <td>主機板</td><td>Gigabyte W480M VISION W</td>
   </tr>
   <tr>  
-    <td>記憶體</td><td>SAMSUNG DDR4 2666 8GB*2</td>
+    <td>記憶體</td><td>T-Force DDR4 3600 16GB*2</td>
   </tr>
   <tr>
     <td>igpu</td><td>Intel UHD P630</td>
