@@ -38,7 +38,7 @@
     <td>固態硬碟2</td><td>Cruial MX500 1TB</td>
   </tr>
   <tr>
-    <td>系統</td><td>macOS Ventura 13.6.3 + OpenCore 0.9.8</td>
+    <td>系統</td><td>macOS Ventura 14.4.1 + OpenCore 1.0.0</td>
   </tr>  
 </table>
 
