@@ -41,8 +41,6 @@
     <td>系統</td><td>macOS Ventura 14.4.1 + OpenCore 1.0.0</td>
   </tr>  
 </table>
-![Png](https://github.com/michelle0812/Gigabyte-W480M-Vision-W-Xeon-W1290-10900/assets/79300809/d6764383-3275-4a16-8467-4db5b56a740f)
-
 
 <img width="450" src="https://github.com/michelle0812/Gigabyte-W480M-Vision-W-Xeon-W1290-10900/assets/79300809/d6764383-3275-4a16-8467-4db5b56a740f">
 <br>
