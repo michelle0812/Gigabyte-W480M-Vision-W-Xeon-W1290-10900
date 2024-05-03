@@ -41,10 +41,13 @@
     <td>系統</td><td>macOS Ventura 14.4.1 + OpenCore 1.0.0</td>
   </tr>  
 </table>
+![Png](https://github.com/michelle0812/Gigabyte-W480M-Vision-W-Xeon-W1290-10900/assets/79300809/d6764383-3275-4a16-8467-4db5b56a740f)
 
+
+<img width="450" src="https://github.com/michelle0812/Gigabyte-W480M-Vision-W-Xeon-W1290-10900/assets/79300809/d6764383-3275-4a16-8467-4db5b56a740f">
+<br>
 <img width="450" alt="截圖 2024-05-01 晚上8 31 53" src="https://github.com/michelle0812/Gigabyte-W480M-Vision-W-Xeon-W1290-10900/assets/79300809/d13e2008-9133-4062-a17e-f19bb14acf7f">
 <br>
-<img width="450" alt="截圖 2024-01-07 下午12 52 26" src="https://github.com/michelle0812/Gigabyte-W480M-Vision-W-Xeon-W1290-10900/assets/79300809/bcdc8749-1c5f-4ece-bf16-7eb365c7827d">
 <br>
 <img width="450" alt="截圖 2024-01-07 下午12 53 07" src="https://github.com/michelle0812/Gigabyte-W480M-Vision-W-Xeon-W1290-10900/assets/79300809/e10ee6c5-0f3e-4d28-b40c-c9862d481b43">
 <br>
