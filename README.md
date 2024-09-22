@@ -34,12 +34,12 @@
   <tr>  
     <td>固態硬碟</td><td>Intel 256GB</td>
   </tr>
-  <tr>  
-    <td>固態硬碟2</td><td>Cruial MX500 1TB</td>
-  </tr>
   <tr>
-    <td>系統</td><td>macOS Ventura 14.4.1 + OpenCore 1.0.0</td>
-  </tr>  
+    <td>系統</td><td>macOS Sequoia 15 + OpenCore 1.0.1</td>
+  </tr>
+  <tr>  
+    <td>Bios Ver.</td><td>F24B</td>
+  </tr>
 </table>
 
 <img width="450" src="https://github.com/michelle0812/Gigabyte-W480M-Vision-W-Xeon-W1290-10900/assets/79300809/d6764383-3275-4a16-8467-4db5b56a740f">
