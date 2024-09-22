@@ -38,7 +38,7 @@
     <td>系統</td><td>macOS Sequoia 15 + OpenCore 1.0.1</td>
   </tr>
   <tr>  
-    <td>Bios Ver.</td><td>F24B</td>
+    <td>Bios Ver.</td><td>F24</td>
   </tr>
 </table>
 
