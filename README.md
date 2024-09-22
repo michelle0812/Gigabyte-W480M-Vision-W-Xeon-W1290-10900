@@ -55,3 +55,11 @@
 <br>
 
 <img width="450" alt="截圖 2023-10-21 下午3 43 57" src="https://github.com/michelle0812/Gigabyte-W480M-Vision-W-Xeon-W1290-10900/assets/79300809/5a939866-f37a-41d9-8c93-8378cd1f74a4"><br>
+
+
+
+
+
+<img width="450" alt="截圖 2024-09-22 下午4 22 43" src="https://github.com/user-attachments/assets/beb4ae3d-2696-4f09-995d-a16e6362dd66"><br>
+
+
