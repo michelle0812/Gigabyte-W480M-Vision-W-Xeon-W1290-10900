@@ -42,11 +42,6 @@
 <img width="450" src="https://github.com/michelle0812/Gigabyte-W480M-Vision-W-Xeon-W1290-10900/assets/79300809/d6764383-3275-4a16-8467-4db5b56a740f">
 <br>
 
-<img width="450" alt="截圖 2024-09-22 下午4 22 43" src="https://github.com/user-attachments/assets/beb4ae3d-2696-4f09-995d-a16e6362dd66"><br>
-<img width="450" alt="截圖 2024-09-22 下午4 23 20" src="https://github.com/user-attachments/assets/16ea17ca-cf25-46a5-a38b-410931feb6f3"><br>
-<img width="450" alt="截圖 2024-09-22 下午4 33 57" src="https://github.com/user-attachments/assets/baf29fe4-c411-49dd-8e9d-582d1d87724d"><br>
-<img width="450" alt="截圖 2024-09-22 下午4 24 14" src="https://github.com/user-attachments/assets/2eb8680c-0d22-4484-98be-239dc52ee765"><br>
-<img width="450" alt="截圖 2024-09-22 下午4 24 42" src="https://github.com/user-attachments/assets/79a2ac41-42c5-4fd8-a35a-e51715263836"><br>
 
 <img width="450" alt="截圖 2025-08-23 下午5 40 57" src="https://github.com/user-attachments/assets/170ff7bb-7827-43b8-8013-4001ecdfda79"><br>
 <img width="450" alt="截圖 2025-08-23 下午5 47 38" src="https://github.com/user-attachments/assets/4d898baa-be9f-4f97-984e-e2129acbbe37"><br>
