@@ -14,9 +14,6 @@
     <td>igpu</td><td>Intel UHD P630</td>
   </tr>
   <tr>
-    <td>dgpu</td><td>MSI RX 6600XT 8GB</td>
-  </tr>
-  <tr>
     <td>音效卡</td><td>Realtek® ALC1200</td>
   </tr>
   <tr>
