@@ -26,7 +26,7 @@
     <td>藍芽</td><td>BCM94360NG</td>
   </tr>
   <tr>
-    <td>網路卡1</td><td>Intel 1219-LM</td>
+    <td>網路卡1</td><td>Intel 1225-LM</td>
   </tr>
   <tr>  
     <td>NVMe</td><td>Crucial P5 1TB</td>
@@ -35,7 +35,7 @@
     <td>固態硬碟</td><td>Intel 256GB</td>
   </tr>
   <tr>
-    <td>系統</td><td>macOS Sequoia 15 + OpenCore 1.0.1</td>
+    <td>系統</td><td>macOS Tahoe 26 + OpenCore 1.0.6</td>
   </tr>
   <tr>  
     <td>Bios Ver.</td><td>F24</td>
@@ -51,4 +51,6 @@
 <img width="450" alt="截圖 2024-09-22 下午4 24 14" src="https://github.com/user-attachments/assets/2eb8680c-0d22-4484-98be-239dc52ee765"><br>
 <img width="450" alt="截圖 2024-09-22 下午4 24 42" src="https://github.com/user-attachments/assets/79a2ac41-42c5-4fd8-a35a-e51715263836"><br>
 
+<img width="450" alt="截圖 2025-08-23 下午5 40 57" src="https://github.com/user-attachments/assets/170ff7bb-7827-43b8-8013-4001ecdfda79"><br>
+<img width="450" alt="截圖 2025-08-23 下午5 47 38" src="https://github.com/user-attachments/assets/4d898baa-be9f-4f97-984e-e2129acbbe37"><br>
 
