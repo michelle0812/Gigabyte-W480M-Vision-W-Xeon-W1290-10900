@@ -14,6 +14,9 @@
     <td>igpu</td><td>Intel UHD P630</td>
   </tr>
   <tr>
+    <td>WiFi & BT</td><td>None</td>
+  </tr>
+  <tr>
     <td>網路卡1</td><td>Intel 1225-LM</td>
   </tr>
   <tr>
